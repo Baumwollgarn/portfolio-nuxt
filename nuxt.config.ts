@@ -12,6 +12,9 @@ export default defineNuxtConfig({
             ],
             link: [
                 { rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons'}
+            ],
+            script: [
+                { src: 'https://kit.fontawesome.com/08e234a004.js', crossorigin: 'anonymous'}
             ]
         },
     },

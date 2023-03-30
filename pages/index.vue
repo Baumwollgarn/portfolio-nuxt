@@ -1,9 +1,10 @@
 <template>
     <div>
         <h2>Home</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias nam porro quisquam similique temporibus. Assumenda delectus facilis iusto ullam. Exercitationem.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias nam porro quisquam similique temporibus. Assumenda delectus facilis iusto ullam. Exercitationem.</p>
-        <p>{{apiKey}}</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias nam porro quisquam similique temporibus.
+            Assumenda delectus facilis iusto ullam. Exercitationem.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias nam porro quisquam similique temporibus.
+            Assumenda delectus facilis iusto ullam. Exercitationem.</p>
     </div>
 </template>
 
