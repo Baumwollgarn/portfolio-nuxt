@@ -1,8 +1,8 @@
 <template>
     <div>
         <section class="bg-gray-900 text-white">
-            <div class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
-                <div class="mx-auto max-w-3xl text-center">
+            <div class="mx-auto max-w-screen-xl px-4 py-32 flex h-screen items-center">
+                <div class="mx-auto max-w-3xl text-center items-center">
                     <h1 class="landing-element bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
                         {{ $t('home.title') }}
                         <span class="sm:block"> {{ $t('home.description')}}</span>
