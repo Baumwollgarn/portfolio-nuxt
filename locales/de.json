@@ -3,6 +3,29 @@
     "title": "Willkommen auf meiner Website",
     "description": "Bitte, schau dich um",
     "about": "Über mich",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "projects": "Projekte",
+    "education": "Ausbildung",
+    "experience": "Erfahrung"
+  },
+  "about": {
+    "title": "Hallo, ich bin Alex.",
+    "first": "Ich bin in Deutschland geboren und habe dort meine frühe Kindheit verbracht, aber als ich klein war, zog\n meine Familie nach Spanien, wo ich aufwuchs und mein Studium in Webentwicklung bei <a href=\"https abschloss ://www.iesmanacor.cat\" class=\"a\">IES Manacor</a> ablegte.\n Dreisprachig in Deutsch, Spanisch und Katalanisch zu sein, war ein wertvolles Gut in meiner Karriere, da es mir ermöglichte, acht Jahre lang in der Hotelbranche und Tourismus tätig zu sein. In dieser Zeit habe ich meine Sprachkenntnisse verfeinert und wertvolle\n Erfahrungen im Kundenservice und Management gesammelt.",
+    "second": "Trotz meines Erfolgs in der Hotellerie fühlte ich mich immer stark in die Welt der Technologie und Webentwicklung gezogen. Ich beschloss, meiner Leidenschaft für das Programmieren nachzugehen und schrieb mich für einen Studiengang in Informatik beim <a href=\"https://www.iesmanacor.cat\" class=\"a\">IES Manacor</a> ein. Im Laufe meines Studiums habe ich mir Expertise in einer Vielzahl von Programmiersprachen, Frameworks und Tools angeeignet, einschließlich <a href=\"https://spring.io\" class=\"a\">Spring Boot</a>, <a href=\"https://nuxt.com \" class=\"a\">NuxtJS</a>, <a href=\"https://laravel.com\" class=\"a\">Laravel</a> usw.\n ",
+    "third": "Im Laufe meiner Karriere habe ich an einer Vielzahl von Projekten gearbeitet, von E-Commerce-Websites bis hin zu benutzerdefinierten Webanwendungen. Ich habe Erfahrung sowohl in der Front-End- als auch in der Back-End-Entwicklung, wobei ich eine Mischung aus den vorher genannten Technologien verwende.\n Zusätzlich zu meinen technischen Fähigkeiten setze ich mich auch für einen hervorragenden Kundenservice ein. Ich bin stolz auf meine Fähigkeit, effektiv mit Kunden zu kommunizieren,\n ihre Bedürfnisse zu verstehen und Lösungen zu liefern, die ihre Erwartungen übertreffen. ",
+    "fourth": "Wenn ich nicht programmiere, erkunde ich normalerweise neue Technologien oder trage\n zu Open-Source-Projekten bei. Ich bin immer auf der Suche nach neuen Herausforderungen und Gelegenheiten, meine Fähigkeiten zu erweitern.\n ",
+    "fifth": "Wenn du nach einem engagierten Webentwickler suchst, der dir hilft, deine Ideen zum Leben zu erwecken, zögere bitte nicht, dich mit mir in Verbindung zu setzen. Ich würde mich freuen, von dir zu hören!"
+  },
+  "contact": {
+    "title": "Kontakt mit mir aufnehmen!",
+    "first": "Ich suche derzeit nach neuen Möglichkeiten. Wenn du ein Projekt- oder Stellenangebot hast, das du besprechen möchtest, nimm bitte Kontakt mit mir auf.",
+    "second": "Alternativ kannst du auch das unten stehende Formular verwenden, um mir eine Nachricht zu senden.",
+    "name": "Name",
+    "email": "Mail",
+    "message": "Nachricht",
+    "send": "Senden",
+    "namePlaceholder": "Dein Name",
+    "emailPlaceholder": "Deine Mail",
+    "messagePlaceholder": "Deine Nachricht"
   }
 }
