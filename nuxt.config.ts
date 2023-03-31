@@ -13,6 +13,7 @@ export default defineNuxtConfig({
                 redirectOn: 'root'
             },
             strategy: 'no_prefix',
+            fallbackLocale: 'en',
             legacy: false,
             messages: {
                 de: require('./locales/de.json'),
