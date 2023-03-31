@@ -5,15 +5,27 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         '@nuxtjs/i18n'
     ],
+    router: {
+        middleware: 'i18n',
+        base: '/',
+        extendRoutes(routes, resolve) {
+            routes.push({
+                name: 'default',
+                path: '*',
+                component: resolve(__dirname, 'pages/index.vue'),
+                meta: { defaultLocale: 'en' }
+            })
+        }
+    },
     i18n: {
         locales: ['en', 'de', 'fr', 'es'],
         vueI18n: {
+            fallbackLocale: 'en',
             detectBrowserLanguage: {
                 alwaysRedirect: true,
                 redirectOn: 'root'
             },
             strategy: 'no_prefix',
-            fallbackLocale: 'en',
             legacy: false,
             messages: {
                 de: require('./locales/de.json'),

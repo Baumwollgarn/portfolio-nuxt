@@ -25,6 +25,9 @@ definePageMeta({
     layout: 'homepage',
 })
 
+// get locale, if none is set, use default
+
+
 </script>
 
 <style lang="scss" scoped>
