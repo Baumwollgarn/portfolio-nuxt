@@ -1,7 +1,27 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     mode: 'universal',
-    modules: ['@nuxtjs/tailwindcss'],
+    modules: [
+        '@nuxtjs/tailwindcss',
+        '@nuxtjs/i18n'
+    ],
+    i18n: {
+        locales: ['en', 'de', 'fr', 'es'],
+        vueI18n: {
+            detectBrowserLanguage: {
+                alwaysRedirect: true,
+                redirectOn: 'root'
+            },
+            strategy: 'no_prefix',
+            legacy: false,
+            messages: {
+                de: require('./locales/de.json'),
+                en: require('./locales/en.json'),
+                fr: require('./locales/fr.json'),
+                es: require('./locales/es.json'),
+            },
+        }
+    },
     app: {
         head: {
             title: 'Portfolio | Alexander Witt',

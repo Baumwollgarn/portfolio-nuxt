@@ -1,0 +1,31 @@
+{
+  "home": {
+    "title": "Welcome to my portfolio",
+    "description": "Please, have a look",
+    "about": "About me",
+    "contact": "Contact",
+    "projects": "Projects",
+    "education": "Education",
+    "experience": "Experience"
+  },
+  "about": {
+    "title": "Hello, I'm Alex.",
+    "first": "I was born in Germany and spent my early childhood there, but when I was young,\n                    my family moved to Spain, where I grew up and completed my degree in Web Development at <a href=\"https://www.iesmanacor.cat\" class=\"a\">IES Manacor.</a>\n                    Being trilingual in German, Spanish and Catalan has been a valuable asset in my career, as it allowed me to work in the hotel\n                    business and tourism industry for eight years. During that time, I honed my language skills and gained valuable\n                    experience in customer service and management.",
+    "second": "Despite my success in the hospitality industry, I always felt a strong pull toward the\n                    world of technology and web development. I decided to pursue my passion for programming and enrolled in a Web\n                    Development degree program at <a href=\"https://www.iesmanacor.cat\" class=\"a\">IES Manacor</a>. Over the course of my studies, I gained expertise in a wide\n                    range of programming languages, frameworks, and tools, including <a href=\"https://spring.io\" class=\"a\">Spring Boot</a>, <a href=\"https://nuxt.com\" class=\"a\">NuxtJS</a>, <a href=\"https://laravel.com\" class=\"a\">Laravel</a>, etc.\n                ",
+    "third": "Throughout my career, I have worked on a diverse range of projects, from e-commerce\n                    websites to custom web applications. I am experienced in both front-end and back-end development using a mix of the earlier mentioned technologies.\n                    In addition to my technical skills, I am also committed to delivering outstanding customer service. I pride myself on my ability to communicate\n                    effectively with clients, understand their needs, and deliver solutions that exceed their expectations. ",
+    "fourth": "When I'm not coding, you can usually find me exploring new technologies or contributing\n                    to open-source projects. I am always looking for new challenges and opportunities to expand my skills.\n                ",
+    "fifth": "If you're looking for a dedicated web developer to help bring your ideas to\n                    life, please don't hesitate to get in touch. I'd love to hear from you!"
+  },
+  "contact": {
+    "title": "Contact me!",
+    "first": "I'm currently looking for new opportunities. If you have a project or job offer you'd like to discuss, please get in touch.",
+    "second": "Alternatively, you can use the form below to send me a message.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Your message"
+  }
+}
