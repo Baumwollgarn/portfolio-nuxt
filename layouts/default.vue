@@ -64,8 +64,6 @@ const localePath = useLocalePath()
 
 </script>
 <script>
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
 export default {
     data() {
         return {
