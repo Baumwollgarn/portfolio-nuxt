@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-900 rounded-lg shadow-lg p-6">
+    <div class="bg-gray-900 rounded-lg shadow-lg p-6 my-auto">
         <h2 class="bg-gradient-to-r from-green-300 via-purple-400 to-blue-800 bg-clip-text text-3xl font-extrabold text-transparent mb-4">{{ $t('contact.title') }}</h2>
         <p class="text-gray-300 mb-4">{{ $t('contact.first') }}</p>
         <p class="text-gray-300">{{ $t('contact.second') }}</p>

@@ -27,5 +27,46 @@
     "namePlaceholder": "Dein Name",
     "emailPlaceholder": "Deine Mail",
     "messagePlaceholder": "Deine Nachricht"
+  },
+  "education": {
+    "title": "Ausbildung",
+    "daw": {
+      "title": "Hochschulabschluss in Webentwicklung",
+      "school": "IES Manacor",
+      "location": "Manacor, Spain",
+      "text": "Ich habe im Juni 2023 auf Mallorca, Spanien, ein Hochschulzertifikat in Webentwicklung erworben. Während des Kurses sammelte ich Erfahrungen in einer Vielzahl von Webentwicklungstechnologien, darunter:",
+      "li1": "Entwicklung und Deployment in Docker",
+      "li2": "Virtual Machines in Azure & GCP"
+    },
+    "eso": {
+      "title": "Obligatorische Sekundarschulbildung",
+      "school": "CFA Manuel Sacristán",
+      "location": "Barcelona, Spain",
+      "text": "Ich habe meinen Realschulabschluss durch eine offene Prüfung erworben. Diese Prüfung bot den Schülern die Möglichkeit, ihr Wissen und ihre Fähigkeiten in verschiedenen Fächern unter Beweis zu stellen, und nach erfolgreichem Abschluss wurde mir der Titel \"Compulsory Secondary Education\" verliehen. Mit dieser Leistung konnte ich mir eine solide Grundlage für mein zukünftiges Studium und meine Karriere schaffen.\n"
+    }
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "cispa": {
+      "title" : "CISPA - Helmholtz Center für Cybersicherheit",
+      "position": "Webentwickler",
+      "date": "März 2023 - Heute",
+      "location": "Saarbrücken, Germany",
+      "description": "Als Praktikant als Webentwickler am CISPA - Helmholtz Center für Cybersicherheit war ich verantwortlich für die Entwicklung und Wartung von Webanwendungen, die den Transfer wissenschaftlicher Erkenntnisse in die Industrie erleichterten. Meine Aufgabe bestand darin, mit einem Team erfahrener Entwickler benutzerfreundliche Webanwendungen zu entwickeln, intuitive Benutzeroberflächen zu entwerfen und eine reibungslose Integration in bestehende Systeme sicherzustellen.\n\nIn dieser Rolle habe ich umfangreiche Erfahrungen im Umgang mit verschiedenen Programmiersprachen und Webentwicklungstools gesammelt, darunter NuxtJS, Django und Docker. Ich habe auch eng mit dem Projektmanagementteam zusammengearbeitet, um sicherzustellen, dass alle Projekte pünktlich und in der höchstmöglichen Qualität geliefert wurden.\n\nInsgesamt hat mir meine Erfahrung als Praktikant als Webentwickler bei CISPA unschätzbare Fähigkeiten und Erfahrungen vermittelt, die mir geholfen haben, zu wachsen und meine Karriere in der Technologiebranche weiterzuentwickeln. Ich freue mich darauf, diese Erfahrung weiter auszubauen und mit meinen Fähigkeiten einen positiven Einfluss auf zukünftige Projekte zu nehmen."
+    },
+    "playa": {
+      "title": "Playa Esperanza SL",
+      "position": "Front Office / Buchung",
+      "date": "Juli 2019 - November 2022",
+      "location": "Playa de Muro, Spain",
+      "description": "Als Front Office / Booking Agent bei Playa Esperanza war ich dafür verantwortlich, dass unsere Gäste von dem Moment an, als sie ihren Aufenthalt bei uns buchten, ein nahtloses und angenehmes Erlebnis hatten. Dies umfasste die Bearbeitung von Gästereservierungen, Check-ins und Check-outs sowie die Bereitstellung von Empfehlungen für lokale Sehenswürdigkeiten, Restaurants und Aktivitäten.\n\nNeben der Bearbeitung der Gästebedürfnisse leitete ich auch das Front Office des Hotels und stellte sicher, dass alle täglichen Abläufe reibungslos liefen. Dazu gehörte die Leitung eines Teams von Mitarbeitern an der Rezeption, die Koordination mit dem Reinigungs- und Wartungspersonal und die Bearbeitung aller auftretenden Gästebeschwerden oder -probleme.\n\nMeine Rolle als Front Office / Booking Agent bei Playa Esperanza erforderte hervorragende Kommunikationsfähigkeiten, Liebe zum Detail und die Fähigkeit, in einem schnelllebigen Umfeld mehrere Aufgaben zu erledigen."
+    },
+    "garden": {
+      "title" : "Garden Hotels SL",
+      "position": "Front Office",
+      "date": "Mai 2015 - November 2018",
+      "location": "Playa de Muro, Spain",
+      "description": "Als Front-Office-Mitarbeiter bei Garden Hotels bestand meine Hauptverantwortung darin, den Gästen von dem Moment an, in dem sie das Haus betraten, einen außergewöhnlichen Kundenservice zu bieten. Ich war dafür verantwortlich, Gäste in und aus ihren Zimmern einzuchecken, ihre Fragen zu Hotelannehmlichkeiten und lokalen Sehenswürdigkeiten zu beantworten und bei Bedarf Reservierungen für sie vorzunehmen.\n\nNeben der Bereitstellung grundlegender Informationen und Hilfestellungen war ich auch für die Bewältigung komplexerer Situationen verantwortlich, z. B. für die Lösung von Gästebeschwerden und die Unterstützung von Gästen in Notsituationen. Ich arbeitete eng mit anderen Mitarbeitern zusammen, einschließlich Hauswirtschaft und Wartung, um sicherzustellen, dass die Gäste einen komfortablen und angenehmen Aufenthalt hatten.\n\nAls Front-Office-Mitarbeiter musste ich außerdem sehr gut organisiert und detailorientiert sein. Ich war dafür verantwortlich, genaue Aufzeichnungen der Gästeinformationen zu führen, den Zimmerbestand des Hotels zu verwalten und sicherzustellen, dass Reservierungen ordnungsgemäß geplant und verwaltet wurden.\n\nInsgesamt erforderte meine Rolle bei Garden Hotels starke Kommunikationsfähigkeiten, eine positive und freundliche Einstellung und die Fähigkeit, mehrere Aufgaben gleichzeitig zu erledigen und mehrere Prioritäten zu verwalten."
+    }
   }
 }

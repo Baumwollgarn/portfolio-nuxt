@@ -81,4 +81,9 @@ export default {
     width: 100px;
     height: 100px;
 }
+
+header {
+    position: sticky;
+    top: 0;
+}
 </style>

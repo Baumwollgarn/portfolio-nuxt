@@ -27,5 +27,46 @@
     "namePlaceholder": "Your name",
     "emailPlaceholder": "Your email",
     "messagePlaceholder": "Your message"
+  },
+  "education": {
+    "title": "Education",
+    "daw": {
+      "title": "Certificate of Higher Education in Web Development",
+      "school": "IES Manacor",
+      "location": "Manacor, Spain",
+      "text": "I completed a Certificate of Higher Education in Web Development in June 2023 in Mallorca, Spain. During the course, I gained experience in a variety of web development technologies, including:",
+      "li1": "Development & deployment in Docker",
+      "li2": "Virtual Machines in Azure & GCP"
+    },
+    "eso": {
+      "title": "Compulsory Secondary Education",
+      "school": "CFA Manuel Sacristán",
+      "location": "Barcelona, Spain",
+      "text": "I obtained my Compulsory Secondary Education degree through a open exam. This exam provided an opportunity for students to demonstrate their knowledge and skills in various subjects, and upon successful completion, I was awarded the Compulsory Secondary Education degree. This accomplishment has allowed me to build a strong foundation for my future studies and career."
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "cispa": {
+      "title" : "CISPA - Helmholtz Center for Information Security",
+      "position": "Web Developer",
+      "date": "March 2023 - Present",
+      "location": "Saarbrücken, Germany",
+      "description": "As an intern web developer at CISPA - Helmholtz Center for Cybersecurity, I was responsible for developing and maintaining web applications that facilitated the transfer of scientific knowledge to the industry. My role involved collaborating with a team of experienced developers to develop user-friendly web applications, designing intuitive user interfaces, and ensuring smooth integration with existing systems.\n\nIn this role, I gained extensive experience in using various programming languages and web development tools, including NuxtJS, Django and Docker. I also worked closely with the project management team to ensure that all projects were delivered on time and to the highest possible quality.\n\nOverall, my experience as an intern web developer at CISPA provided me with invaluable skills and experience that have helped me to grow and develop my career in the tech industry. I look forward to continuing to build on this experience and to using my skills to make a positive impact on future projects."
+    },
+    "playa": {
+      "title": "Playa Esperanza SL",
+      "position": "Front Office /  Booking",
+      "date": "July 2019 - November 2022",
+      "location": "Playa de Muro, Spain",
+      "description": "As a Front Office / Booking Agent at Playa Esperanza, I was responsible for ensuring that our guests had a seamless and enjoyable experience from the moment they booked their stay with us. This involved handling guest reservations, check-ins, and check-outs, as well as providing recommendations for local attractions, restaurants, and activities.\n\nIn addition to handling guest needs, I also managed the hotel's front office, ensuring that all daily operations were running smoothly. This included managing a team of front desk associates, coordinating with housekeeping and maintenance staff, and handling any guest complaints or issues that arose.\n\nMy role as a Front Office / Booking Agent at Playa Esperanza required excellent communication skills, attention to detail, and the ability to multitask in a fast-paced environment."
+    },
+    "garden": {
+      "title" : "Garden Hotels SL",
+      "position": "Front Office",
+      "date": "May 2015 - November 2018",
+      "location": "Playa de Muro, Spain",
+      "description": "As a front office staff member at Garden Hotels, my primary responsibility was to provide exceptional customer service to guests from the moment they walked in the door. I was responsible for checking guests in and out of their rooms, answering their questions about hotel amenities and local attractions, and making reservations for them as needed.\n\nIn addition to providing basic information and assistance, I was also responsible for handling more complex situations, such as resolving guest complaints and helping guests in emergency situations. I worked closely with other staff members, including housekeeping and maintenance, to ensure that guests had a comfortable and enjoyable stay.\n\nAs a front office staff member, I also had to be highly organized and detail-oriented. I was responsible for maintaining accurate records of guest information, as well as managing the hotel's room inventory and ensuring that reservations were properly scheduled and managed.\n\nOverall, my role at Garden Hotels required strong communication skills, a positive and friendly attitude, and the ability to multitask and manage multiple priorities at once."
+    }
   }
 }
