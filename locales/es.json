@@ -4,5 +4,66 @@
     "description": "Por favor, de una vuelta",
     "about": "Acerca de mí",
     "contact": "Contacto"
+  },
+  "about": {
+    "title": "Hola, soy Alex",
+    "first": "Nací en Alemania y pasé mi primera infancia allí, pero cuando era joven, mi familia se mudó a España, donde crecí y terminé la carrera de Desarrollo Web en <a href=\"https://www.iesmanacor.cat \" class=\"a\">IES Manacor.</a> Ser trilingüe en alemán, español y catalán ha sido un activo valioso en mi carrera, ya que me permitió trabajar en la industria hotelera y turística durante ocho años. Durante ese tiempo, perfeccioné mis habilidades lingüísticas y obtuve una valiosa experiencia en atención al cliente y gestión.",
+    "second": "A pesar de mi éxito en la industria hotelera, siempre sentí una fuerte atracción por el mundo de la tecnología y el desarrollo web. Decidí dedicarme a mi pasión por la programación y me matriculé en la carrera de Desarrollo Web en el <a href=\"https://www.iesmanacor.cat\" class=\"a\">IES Manacor</a>. A lo largo de mis estudios, adquirí experiencia en una amplia gama de lenguajes de programación, frameworks y herramientas, incluidos <a href=\"https://spring.io\" class=\"a\">Spring Boot</a>, <a href=\"https://nuxt.com\" class=\"a\">NuxtJS</a>, <a href=\"https://laravel.com\" class=\"a\">Laravel</a>, etc.",
+    "third": "A lo largo de mi carrera, he trabajado en una amplia gama de proyectos, desde sitios web de comercio electrónico hasta aplicaciones web personalizadas. Tengo experiencia tanto en el desarrollo front-end como en el back-end utilizando una combinación de las tecnologías mencionadas anteriormente. Además de mis habilidades técnicas, también estoy comprometido a brindar un excelente servicio al cliente. Me enorgullezco de mi capacidad para comunicarme de manera efectiva con los clientes, comprender sus necesidades y brindar soluciones que superen sus expectativas.",
+    "fourth": "Cuando no estoy programando, normalmente puedes encontrarme explorando nuevas tecnologías o contribuyendo a proyectos de código abierto. Siempre estoy buscando nuevos desafíos y oportunidades para expandir mis habilidades.",
+    "fifth": "Si está buscando un desarrollador web dedicado para ayudarlo a hacer realidad sus ideas, no dude en ponerse en contacto. ¡Me encantaría saber de ti!"
+  },
+  "contact": {
+    "title": "Contacte conmigo!",
+    "first": "Actualmente estoy buscando nuevas oportunidades. Si tiene un proyecto u oferta de trabajo que le gustaría discutir, por favor póngase en contacto.",
+    "second": "Alternativamente, puede utilizar el siguiente formulario para enviarme un mensaje.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "namePlaceholder": "Tu nombre",
+    "emailPlaceholder": "Tu correo",
+    "messagePlaceholder": "Tu mensaje"
+  },
+  "education": {
+    "title": "Educación",
+    "daw": {
+      "title": "CFGS Desarrollo de Aplicaciones Web",
+      "school": "IES Manacor",
+      "location": "Manacor, España",
+      "text": "Completé un Grado Superior de Desarrollo Aplicaciones Web en junio de 2023 en Mallorca, España. Durante el curso, adquirí experiencia en una variedad de tecnologías de desarrollo web, que incluyen:",
+      "li1": "Desarrollar y desplegar en Docker",
+      "li2": "Máquinas Virtuales en Azure & GCP"
+    },
+    "eso": {
+      "title": "Educación Secundaria Obligatoria",
+      "school": "CFA Manuel Sacristán",
+      "location": "Barcelona, España",
+      "text": "Obtuve mi título de Educación Secundaria Obligatoria a través de una prueba libre. Este examen brindó a los estudiantes la oportunidad de demostrar sus conocimientos y habilidades en diversas materias y, al aprobarlo, obtuve el título de Educación Secundaria Obligatoria. Este logro me ha permitido construir una base sólida para mis futuros estudios y carrera."
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "cispa": {
+      "title" : "CISPA - Helmholtz Center for Information Security",
+      "position": "Desarrollador Web",
+      "date": "Marzo 2023 - Presente",
+      "location": "Saarbrücken, Alemania",
+      "description": "Como desarrollador web en prácticas en CISPA - Helmholtz Center for Cybersecurity, fui responsable del desarrollo y mantenimiento de aplicaciones web que facilitaron la transferencia de conocimiento científico a la industria. Mi función implicó colaborar con un equipo de desarrolladores experimentados para desarrollar aplicaciones web fáciles de usar, diseñar interfaces de usuario intuitivas y garantizar una integración fluida con los sistemas existentes. En este rol, obtuve una amplia experiencia en el uso de varios lenguajes de programación y herramientas de desarrollo web, incluidos NuxtJS, Django y Docker. También trabajé en estrecha colaboración con el equipo de gestión de proyectos para garantizar que todos los proyectos se entregaran a tiempo y con la mayor calidad posible. En general, mi experiencia como desarrollador web en CISPA me brindó habilidades y experiencia invaluables que me ayudaron a crecer y desarrollar mi carrera en la industria de la tecnología. Espero continuar construyendo sobre esta experiencia y usar mis habilidades para tener un impacto positivo en proyectos futuros."
+    },
+    "playa": {
+      "title": "Playa Esperanza SL",
+      "position": "Front Office /  Reservas",
+      "date": "Julio 2019 - Noviembre 2022",
+      "location": "Playa de Muro, España",
+      "description": "Como recepcionista / personal de reservas en Playa Esperanza, era responsable de garantizar que nuestros huéspedes tuvieran una experiencia placentera y agradable desde el momento en que reservaron su estadía con nosotros. Esto implicó gestionar las reservas de los huéspedes, los registros de entrada y de salida, así como proporcionar recomendaciones sobre atracciones, restaurantes y actividades locales. Además de manejar las necesidades de los huéspedes, también administré la recepción principal del hotel, asegurándome de que todas las operaciones diarias funcionaran sin problemas. Esto incluyó la gestión de un equipo de asociados de recepción, la coordinación con el personal de limpieza y mantenimiento, y el manejo de las quejas o problemas de los huéspedes que surgieron. Mi función como recepcionista / personal de reservas en Playa Esperanza requería excelentes habilidades de comunicación, atención a los detalles y la capacidad de realizar múltiples tareas en un entorno acelerado."
+    },
+    "garden": {
+      "title" : "Garden Hotels SL",
+      "position": "Front Office",
+      "date": "Mayo 2015 - Noviembre 2018",
+      "location": "Playa de Muro, España",
+      "description": "Como miembro del personal de recepción en Garden Hotels, mi principal responsabilidad era brindar un servicio al cliente excepcional a los huéspedes desde el momento en que cruzaron la puerta. Era responsable de registrar la entrada y salida de las habitaciones de los huéspedes, responder a sus preguntas sobre los servicios del hotel y las atracciones locales, y hacer las reservas para ellos según fuera necesario. Además de brindar información básica y asistencia, también era responsable de manejar situaciones más complejas, como resolver quejas de los huéspedes y ayudar a los huéspedes en situaciones de emergencia. Trabajé en estrecha colaboración con otros miembros del personal, incluida la limpieza y el mantenimiento, para garantizar que los huéspedes tuvieran una estadía cómoda y agradable. Como miembro del personal de recepción, también tenía que ser muy organizado y estar atento a los detalles. Era responsable de mantener registros precisos de la información de los huéspedes, así como de administrar el inventario de habitaciones del hotel y garantizar que las reservas se programaran y administraran correctamente. En general, mi función en Garden Hotels requería fuertes habilidades de comunicación, una actitud positiva y amistosa, y la capacidad de realizar múltiples tareas y administrar múltiples prioridades a la vez."
+    }
   }
 }

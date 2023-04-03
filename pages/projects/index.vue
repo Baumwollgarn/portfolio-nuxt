@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="grid grid-cols-4 gap-5">
+        <div class="grid lg:grid-cols-4 grid-cols-1 gap-5">
             <div v-for="p in products">
                 <ProjectCard :product="p" />
             </div>

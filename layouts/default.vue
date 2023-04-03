@@ -64,6 +64,22 @@ const localePath = useLocalePath()
 
 </script>
 <script>
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+
+const firebaseConfig = {
+    apiKey: "AIzaSyD3LLvTKRm_iMFGtY9LnSevnVlf4Dz-uGk",
+    authDomain: "portfolio-58df2.firebaseapp.com",
+    projectId: "portfolio-58df2",
+    storageBucket: "portfolio-58df2.appspot.com",
+    messagingSenderId: "969735243496",
+    appId: "1:969735243496:web:dc478fc4e4be5b3e15eb5d",
+    measurementId: "G-PNZL5DF97C"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 export default {
     data() {
         return {
