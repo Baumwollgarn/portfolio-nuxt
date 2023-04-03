@@ -86,4 +86,18 @@ header {
     position: sticky;
     top: 0;
 }
+
+
+@media (max-width: 1024px) {
+    header {
+        position: static;
+    }
+}
+
+@media (min-width: 1025px) {
+    header {
+        position: sticky;
+        top: 0;
+    }
+}
 </style>
