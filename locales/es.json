@@ -4,6 +4,7 @@
     "description": "Por favor, de una vuelta",
     "about": "Acerca de mí",
     "contact": "Contacto",
+    "projects": "Proyectos",
     "education": "Educación",
     "experience": "Experiencia"
   },
@@ -67,5 +68,11 @@
       "location": "Playa de Muro, España",
       "description": "Como miembro del personal de recepción en Garden Hotels, mi principal responsabilidad era brindar un servicio al cliente excepcional a los huéspedes desde el momento en que cruzaron la puerta. Era responsable de registrar la entrada y salida de las habitaciones de los huéspedes, responder a sus preguntas sobre los servicios del hotel y las atracciones locales, y hacer las reservas para ellos según fuera necesario. Además de brindar información básica y asistencia, también era responsable de manejar situaciones más complejas, como resolver quejas de los huéspedes y ayudar a los huéspedes en situaciones de emergencia. Trabajé en estrecha colaboración con otros miembros del personal, incluida la limpieza y el mantenimiento, para garantizar que los huéspedes tuvieran una estadía cómoda y agradable. Como miembro del personal de recepción, también tenía que ser muy organizado y estar atento a los detalles. Era responsable de mantener registros precisos de la información de los huéspedes, así como de administrar el inventario de habitaciones del hotel y garantizar que las reservas se programaran y administraran correctamente. En general, mi función en Garden Hotels requería fuertes habilidades de comunicación, una actitud positiva y amistosa, y la capacidad de realizar múltiples tareas y administrar múltiples prioridades a la vez."
     }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "viewWebsite": "Visitar sitio web",
+    "viewGithub": "Visitar Github",
+    "project1Description": "ISP Hero es un servicio integral de hospedaje de dominios que ofrece una variedad de servicios, incluidos el registro de dominios, el hospedaje y los servicios de correo. Como miembro clave del equipo de desarrollo, fui responsable de implementar funciones críticas como el registro de usuarios, OAuth, manejo de correo electrónico, chat en vivo y el proceso de compra. Utilicé Java Spring Boot y Thymeleaf para crear una interfaz de usuario dinámica y receptiva, e implementé un backend sólido con una base de datos SQL para garantizar un rendimiento y una seguridad de datos óptimos. También hay un panel de administración disponible para la gestión general de usuarios y datos, así como para traducciones automáticas del sitio web."
   }
 }

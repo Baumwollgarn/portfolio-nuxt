@@ -68,5 +68,11 @@
       "location": "Playa de Muro, Spain",
       "description": "As a front office staff member at Garden Hotels, my primary responsibility was to provide exceptional customer service to guests from the moment they walked in the door. I was responsible for checking guests in and out of their rooms, answering their questions about hotel amenities and local attractions, and making reservations for them as needed.\n\nIn addition to providing basic information and assistance, I was also responsible for handling more complex situations, such as resolving guest complaints and helping guests in emergency situations. I worked closely with other staff members, including housekeeping and maintenance, to ensure that guests had a comfortable and enjoyable stay.\n\nAs a front office staff member, I also had to be highly organized and detail-oriented. I was responsible for maintaining accurate records of guest information, as well as managing the hotel's room inventory and ensuring that reservations were properly scheduled and managed.\n\nOverall, my role at Garden Hotels required strong communication skills, a positive and friendly attitude, and the ability to multitask and manage multiple priorities at once."
     }
+  },
+  "projects": {
+    "title": "Projects",
+    "viewWebsite": "View website",
+    "viewGithub": "View Github",
+    "project1Description": "ISP Hero is a comprehensive domain hosting service that offers a variety of services, including domain registration, hosting, and mail services. As a key member of the development team, I was responsible for implementing critical features such as user registration, OAuth, email handling, Live Chat and the purchase process. I utilized Java Spring Boot and Thymeleaf to create a dynamic and responsive user interface, and implemented a robust backend with a SQL database to ensure optimal performance and data security. There is also an admin panel available for general user & data management as well as for automatic translations of the website."
   }
 }

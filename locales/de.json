@@ -68,5 +68,11 @@
       "location": "Playa de Muro, Spain",
       "description": "Als Front-Office-Mitarbeiter bei Garden Hotels bestand meine Hauptverantwortung darin, den Gästen von dem Moment an, in dem sie das Haus betraten, einen außergewöhnlichen Kundenservice zu bieten. Ich war dafür verantwortlich, Gäste in und aus ihren Zimmern einzuchecken, ihre Fragen zu Hotelannehmlichkeiten und lokalen Sehenswürdigkeiten zu beantworten und bei Bedarf Reservierungen für sie vorzunehmen.\n\nNeben der Bereitstellung grundlegender Informationen und Hilfestellungen war ich auch für die Bewältigung komplexerer Situationen verantwortlich, z. B. für die Lösung von Gästebeschwerden und die Unterstützung von Gästen in Notsituationen. Ich arbeitete eng mit anderen Mitarbeitern zusammen, einschließlich Hauswirtschaft und Wartung, um sicherzustellen, dass die Gäste einen komfortablen und angenehmen Aufenthalt hatten.\n\nAls Front-Office-Mitarbeiter musste ich außerdem sehr gut organisiert und detailorientiert sein. Ich war dafür verantwortlich, genaue Aufzeichnungen der Gästeinformationen zu führen, den Zimmerbestand des Hotels zu verwalten und sicherzustellen, dass Reservierungen ordnungsgemäß geplant und verwaltet wurden.\n\nInsgesamt erforderte meine Rolle bei Garden Hotels starke Kommunikationsfähigkeiten, eine positive und freundliche Einstellung und die Fähigkeit, mehrere Aufgaben gleichzeitig zu erledigen und mehrere Prioritäten zu verwalten."
     }
+  },
+  "projects": {
+    "title": "Projekte",
+    "viewWebsite": "Website anzeigen",
+    "viewGithub": "Github anzeigen",
+    "project1Description": "ISP Hero ist ein umfassender Domain-Hosting-Service, der eine Vielzahl von Diensten anbietet, darunter Domain-Registrierung, Hosting und E-Mail-Dienste. Als wichtiges Mitglied des Entwicklungsteams war ich für die Implementierung kritischer Funktionen wie Benutzerregistrierung, OAuth, E-Mail-Verarbeitung, Live-Chat und Kaufprozess verantwortlich. Ich habe Java Spring Boot und Thymeleaf verwendet, um eine dynamische und reaktionsschnelle Benutzeroberfläche zu erstellen, und ein robustes Backend mit einer SQL-Datenbank implementiert, um optimale Leistung und Datensicherheit zu gewährleisten. Es steht auch ein Admin-Panel für die allgemeine Benutzer- und Datenverwaltung sowie für automatische Übersetzungen der Website zur Verfügung."
   }
 }
