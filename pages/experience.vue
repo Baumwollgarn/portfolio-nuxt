@@ -9,7 +9,7 @@
                     <p class="text-sm text-gray-300 mt-4">{{ $t('experience.cispa.position') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.cispa.date') }}</p>
                 </div>
-                <div class="w-full md:w-2/3 text-center md:text-left">
+                <div class="w-full md:w-2/3 text-justify">
                     <p class="text-sm text-gray-300">{{ $t('experience.cispa.location') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.cispa.description') }}</p>
                 </div>
@@ -22,7 +22,7 @@
                     <p class="text-sm text-gray-300 mt-4">{{ $t('experience.playa.position') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.playa.date') }}</p>
                 </div>
-                <div class="w-full md:w-2/3 text-center md:text-left">
+                <div class="w-full md:w-2/3 text-justify">
                     <p class="text-sm text-gray-300">{{ $t('experience.playa.location') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.playa.description') }}</p>
                 </div>
@@ -36,7 +36,7 @@
                     <p class="text-sm text-gray-300 mt-4">{{ $t('experience.garden.position') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.garden.date') }}</p>
                 </div>
-                <div class="w-full md:w-2/3 text-center md:text-left">
+                <div class="w-full md:w-2/3 text-justify">
                     <p class="text-sm text-gray-300">{{ $t('experience.garden.location') }}</p>
                     <p class="text-sm text-gray-500">{{ $t('experience.garden.description') }}</p>
                 </div>

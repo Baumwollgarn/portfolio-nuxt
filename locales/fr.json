@@ -3,6 +3,70 @@
     "title": "Bienvenue sur mon site",
     "description": "Veuillez regarder autour de vous",
     "about": "À propos de moi",
-    "contact": "Contactez-moi"
+    "contact": "Contactez-moi",
+    "projects": "Projets",
+    "education": "Éducation",
+    "experience": "Expérience"
+  },
+  "about": {
+    "title": "Salut, je suis Alex",
+    "first": "Je suis né en Allemagne et j'y ai passé ma petite enfance, mais quand j'étais jeune, ma famille a déménagé en Espagne, où j'ai grandi et terminé mon diplôme de développement Web dans la classe <a href=\"https://www.iesmanacor.cat \" =\" a\">IES Manacor.</a> Être trilingue en allemand, espagnol et catalan a été un atout précieux dans ma carrière, ce qui m'a permis de travailler dans l'hôtellerie et le tourisme pendant huit ans. Au cours de cette période, j'ai perfectionné mes compétences linguistiques et acquis une expérience précieuse en matière de service à la clientèle et de gestion.",
+    "second": "Malgré mon succès dans l'industrie hôtelière, j'ai toujours ressenti une forte attirance pour le monde de la technologie et du développement web. J'ai décidé de poursuivre ma passion pour la programmation et je me suis inscrit au diplôme de développement Web à <a href=\"https://www.iesmanacor.cat\" class=\"a\">IES Manacor</a>. Tout au long de mes études, j'ai acquis de l'expérience dans un large éventail de langages de programmation, de frameworks et d'outils, y compris <a href=\"https://spring.io\" class=\"a\">Spring Boot</a>, <a href =\"https://nuxt.com\" class=\"a\">NuxtJS</a>, <a href=\"https://laravel.com\" class=\"a\">Laravel</a>, etc.",
+    "third": "Tout au long de ma carrière, j'ai travaillé sur un large éventail de projets, des sites Web de commerce électronique aux applications Web personnalisées. J'ai de l'expérience dans le développement front-end et back-end en utilisant une combinaison des technologies mentionnées ci-dessus. En plus de mes compétences techniques, je m'engage également à fournir un excellent service client. Je suis fier de ma capacité à communiquer efficacement avec les clients, à comprendre leurs besoins et à fournir des solutions qui dépassent leurs attentes.",
+    "fourth": "Lorsque je ne programme pas, vous pouvez généralement me trouver en train d'explorer de nouvelles technologies ou de contribuer à des projets open source. Je suis toujours à la recherche de nouveaux défis et d'opportunités pour développer mes compétences.",
+    "fifth": "Si vous recherchez un développeur web dédié pour vous aider à concrétiser vos idées, n'hésitez pas à nous contacter. J'aimerais avoir de vos nouvelles!"
+  },
+  "contact": {
+    "title": "Contactez moi!",
+    "first": "Je suis actuellement à la recherche de nouvelles opportunités. Si vous avez un projet ou une offre d'emploi dont vous aimeriez discuter, n'hésitez pas à nous contacter.",
+    "second": "Alternativement, vous pouvez utiliser le formulaire ci-dessous pour m'envoyer un message.",
+    "name": "Nom",
+    "email": "E-Mail",
+    "message": "Message",
+    "send": "Envoyer",
+    "namePlaceholder": "Ton nom",
+    "emailPlaceholder": "Ton e-mail",
+    "messagePlaceholder": "Ton message"
+  },
+  "education": {
+    "title": "Éducation",
+    "daw": {
+      "title": "CFGS Développement d'applications Web",
+      "school": "IES Manacor",
+      "location": "Manacor, Espagne",
+      "text": "J'ai obtenu un diplôme supérieur en développement d'applications Web en juin 2023 à Majorque, en Espagne. Au cours de cette formation, j'ai acquis de l'expérience dans diverses technologies de développement Web, notamment :",
+      "li1": "Développer et déployer sur Docker",
+      "li2": "Machines virtuelles dans Azure et GCP"
+    },
+    "eso": {
+      "title": "Éducation secondaire obligatoire",
+      "school": "CFA Manuel Sacristán",
+      "location": "Barcelona, Espagne",
+      "text": "J'ai obtenu mon titre d'enseignement secondaire obligatoire grâce à un test gratuit. Cet examen a donné aux étudiants l'occasion de démontrer leurs connaissances et leurs compétences dans diverses matières, et en le réussissant, j'ai obtenu le titre d'enseignement secondaire obligatoire. Cette réussite m'a permis de bâtir une base solide pour mes études et ma carrière futures."
+    }
+  },
+  "experience": {
+    "title": "Expérience",
+    "cispa": {
+      "title" : "CISPA - Helmholtz Center for Information Security",
+      "position": "Développeur web",
+      "date": "Mars 2023 - Actuel",
+      "location": "Saarbrücken, Allemagne",
+      "description": "En tant que développeur web stagiaire au CISPA - Centre Helmholtz pour la cybersécurité, j'étais responsable du développement et de la maintenance d'applications web qui facilitaient le transfert des connaissances scientifiques vers l'industrie. Mon rôle consistait à collaborer avec une équipe de développeurs expérimentés pour développer des applications Web faciles à utiliser, concevoir des interfaces utilisateur intuitives et assurer une intégration transparente avec les systèmes existants. Dans ce rôle, j'ai acquis une vaste expérience en utilisant divers langages de programmation et outils de développement Web, notamment NuxtJS, Django et Docker. J'ai également travaillé en étroite collaboration avec l'équipe de gestion de projet pour m'assurer que tous les projets étaient livrés à temps et avec la meilleure qualité possible. Dans l'ensemble, mon expérience en tant que développeur Web chez CISPA m'a fourni des compétences et une expérience inestimables qui m'ont aidé à grandir et à développer ma carrière dans l'industrie technologique. J'espère continuer à capitaliser sur cette expérience et utiliser mes compétences pour avoir un impact positif sur les projets futurs."
+    },
+    "playa": {
+      "title": "Playa Esperanza SL",
+      "position": "Réception / Réservations",
+      "date": "Juillet 2019 - Novembre 2022",
+      "location": "Playa de Muro, Espagne",
+      "description": "En tant que réceptionniste / personnel des réservations à Playa Esperanza, j'étais chargé de veiller à ce que nos clients aient une expérience agréable et agréable à partir du moment où ils ont réservé leur séjour avec nous. Cela impliquait de gérer les réservations, l'enregistrement et le départ des clients, ainsi que de fournir des recommandations sur les attractions, les restaurants et les activités locales. En plus de répondre aux besoins des clients, j'ai également géré la réception principale de l'hôtel, en veillant au bon déroulement de toutes les opérations quotidiennes. Cela comprenait la gestion d'une équipe d'employés de la réception, la coordination avec le personnel d'entretien et de maintenance, et la gestion des plaintes des clients ou des problèmes qui se posaient. Mon rôle en tant que réceptionniste/personnel de réservation à Playa Esperanza nécessitait d'excellentes compétences en communication, une attention aux détails et la capacité d'effectuer plusieurs tâches dans un environnement en évolution rapide."
+    },
+    "garden": {
+      "title" : "Garden Hotels SL",
+      "position": "Réception",
+      "date": "Mai 2015 - Novembre 2018",
+      "location": "Playa de Muro, Espagne",
+      "description": "En tant que membre du personnel de la réception de Garden Hotels, ma principale responsabilité était de fournir un service client exceptionnel aux clients dès le moment où ils franchissaient la porte. J'étais responsable de l'enregistrement des clients dans et hors des chambres, de répondre à leurs questions sur les services hôteliers et les attractions locales, et de faire des réservations pour eux au besoin. En plus de fournir des informations et une assistance de base, il était également chargé de gérer des situations plus complexes, telles que la résolution des plaintes des clients et l'assistance aux clients dans les situations d'urgence. J'ai travaillé en étroite collaboration avec d'autres membres du personnel, y compris l'entretien ménager et l'entretien, pour garantir aux clients un séjour confortable et agréable. En tant que membre du personnel de la réception, il devait également être très organisé et attentif aux détails. Il était chargé de tenir des registres précis des informations sur les clients, ainsi que de gérer l'inventaire des chambres de l'hôtel et de s'assurer que les réservations étaient planifiées et gérées correctement. Dans l'ensemble, mon rôle chez Garden Hotels nécessitait de solides compétences en communication, une attitude positive et amicale, ainsi que la capacité d'effectuer plusieurs tâches et de gérer plusieurs priorités à la fois."
+    }
   }
 }

@@ -1,15 +1,15 @@
 <template>
     <div class="bg-gray-900 rounded-lg shadow-lg p-6 text-gray-300">
         <h2 class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent mb-4">{{ $t('about.title') }}</h2>
-        <div class="lg:columns-2">
-            <div class="col">
+        <div class="lg:columns-2 flex items-center">
+            <div class="col pr-5 text-justify">
                 <p v-html="$t('about.first')" class="mb-4"></p>
                 <p v-html="$t('about.second')" class="mb-4"></p>
                 <p v-html="$t('about.third')" class="mb-4"></p>
                 <p v-html="$t('about.fourth')" class="mb-4"></p>
                 <p v-html="$t('about.fifth')" class="mb-4"></p>
             </div>
-            <div class="h-full">
+            <div class="h-full col">
                 <img src="/me.webp" alt="Alex" class="rounded-lg shadow-lg">
             </div>
         </div>
